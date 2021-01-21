@@ -1,0 +1,143 @@
+{"intents": [
+        {
+    "tag":"name",
+    "patterns": ["what's your name?","What is your name?","What should I call you?","What's your name","what is your name?","what should I call you?"],
+    "responses": ["You can call me buddy :) ","Buddy :) "]
+  },
+  {
+    "tag":"greetings",
+    "patterns": ["Hello","Hi","Hey","Greetings","What's up?","hello","hey","hi","what's up?"],
+    "responses": ["Hello"]
+  },
+  {
+    "tag":"wish",
+    "patterns": ["Good morning","good mrng"],
+    "responses": ["Good Morning"]
+  },
+  {
+    "tag":"bdy",
+    "patterns": ["My birthday","Today is my birthday"],
+    "responses": ["Happy Birthday :)"]
+  },
+  {
+    "tag":"life",
+    "patterns": ["how are you?","How are you","how are you doing?","What's up?","sup?","what's popping"],
+    "responses": ["I'm doing great:) What about you?","I'm good :) How are you?"]
+  },
+  {
+    "tag":"clife",
+    "patterns": ["I am doing good","I am doing great","fine","I am fine","I am great","good","same to you","like you"],
+    "responses": ["great:)"]
+  },
+  {
+    "tag":"slife",
+    "patterns": ["I am not doing good","I am not doing great","not fine","I am not fine","I am sad","not good"],
+    "responses": ["Don't be sad everything will be fine :)"]
+  },
+  {
+    "tag":"goodbye",
+    "patterns": ["goodbye","see you later","bye","talk you later","Goodbye","See you later","Bye","Talk you later"],
+    "responses": ["GoodBye!","Sad to see you go :(","GoodBye!have a good day"]
+  },
+  {
+    "tag":"age",
+    "patterns": ["what is your age?","how old are you?","your age?","age?","What is your age?","How old are you?","Your age?","Age?"],
+    "responses": ["Two weeks"]
+  },
+  {
+    "tag":"No",
+    "patterns": ["asddfgrg","dfhnfgjn","jhdf","nsufh","wjdfv","wchd","hgfrs"],
+    "responses": ["Sorry, can't understand you"]
+  },
+  {
+    "tag":"ai",
+    "patterns": ["Tell me something about ai","What you know about ai"],
+    "responses": ["Ai is wide-ranging branch of cs concerned with building smart machines capable of performing tasks that typically require human intelligence"]
+  },
+  {
+    "tag":"working_hour",
+    "patterns": ["what's your working hour?","your working hour?"],
+    "responses": ["You can talk to me anytime"]
+  },
+  {
+    "tag":"interest",
+    "patterns": ["Tell me about your interest area","your interest area?"],
+    "responses": ["I have interest in Artificial Intelligence"]
+  },
+  {
+    "tag":"weather",
+    "patterns": ["Tell me about weather"],
+    "responses": ["cold outside"]
+  },
+  {
+    "tag":"music",
+    "patterns": ["what is your favorite kind of music?","what type of music you like?"],
+    "responses": ["I enjoy listening to both rock and r&b"]
+  },
+  {
+    "tag":"sports",
+    "patterns": ["what is your favorite sport?","what type of sport you like?"],
+    "responses": ["I love to watch outdoor games"," I love to play chess"]
+  },
+  {
+    "tag":"corona",
+    "patterns": ["did you know any thing about coronavirus?","did you heard about coronavirus?","corona","did you know any thing about covid-19?","did you heard about covid-19?", "anything know about covid-19?","did you heard about covid-19?","covid-19"],
+    "responses": ["Coronaviruses are a type of virus which can cause serious illnesses.It spreads quickly from person to person"]
+  },
+  {
+    "tag":"vaccine",
+    "patterns": ["what did you know about covid-19 vaccine?","what did you know about corona vaccine?"],
+    "responses": ["A COVID‑19 vaccine is a vaccine intended to provide acquired immunity against COVID-19."]
+  },
+  {
+    "tag":"series",
+    "patterns": ["what type of series you like?"],
+    "responses": ["I love comedy series and my favourite series are Big Bang Theory and Silicon Valley "]
+  },
+  {
+    "tag":"movie",
+    "patterns": ["what is your favorite kind of movie?","what type of movie you like?"],
+    "responses": ["I love comedy movie"]
+  },
+  {
+    "tag":"colour",
+    "patterns": ["what is your favorite colour?","what type of colour you like?"],
+    "responses": ["I love pink","Pink is my favourite"]
+  },
+  {
+    "tag":"country",
+    "patterns": ["what is your country name?","what is the name of your country?","country name"],
+    "responses": ["My country's name is Bangladesh","Bangladesh"]
+  },
+  {
+    "tag":"jokes",
+    "patterns": ["Creak some jokes"],
+    "responses": ["Teacher: Give a a sentence beginning with 'I'.Student: I is.. Teacher: Stop there, you need to begin with 'I am'. Student: Okay..I am the ninth letter of the alphabet"]
+  },
+  {
+    "tag":"qn",
+    "patterns": ["what can you do for me?","any thing you want to do for me?"],
+    "responses": ["I think i can make you laugh"]
+  },
+  {
+    "tag":"cupdate",
+    "patterns": ["give me today's update about corona","today's corona update","give me today's update about covid-19","today's covid-19 update"],
+    "responses": ["Total affected 94968109,death 2031282 in whole world"]
+  },
+  {
+    "tag":"BDcupdate",
+    "patterns": ["give me today's update about corona in bangladesh","today's corona update in bangladesh","today's corona update of bangladesh","give me today's update about covid-19 in bangladesh","today's covid-19 update in bangladesh","today's covid-19 update of bangladesh","bangladesh corona","bangladesh covid-19"],
+    "responses": ["Total affected 527063,death 7883 in Bangladesh"]
+  },
+  {
+    "tag":"cposition",
+    "patterns": ["what is the rank of bangladesh in covid-19?","what is the rank of bangladesh in corona?","what is the position of bangladesh in covid-19?","corona position of bangladesh"],
+    "responses": ["29th"]
+  },
+  {
+    "tag":"first_p",
+    "patterns": ["Corona position no 1?","which country is in no 1 position?","which country affected most?","which country's death most?","higher death rate"],
+    "responses": ["USA"]
+  }
+]
+}
